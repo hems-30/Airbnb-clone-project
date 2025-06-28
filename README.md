@@ -67,3 +67,19 @@ When you identify and follow the design properties:
 - Future design updates are easier to manage and scale.
 
 Following mockup properties avoids guesswork, supports responsive design, and creates a polished, professional interface.
+## Project Roles and Responsibilities
+
+Clearly defining team roles ensures smooth collaboration, accountability, and efficient delivery.
+
+| Role               | Responsibilities                                                                                      |
+|--------------------|--------------------------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the project timeline, assigns tasks, monitors progress, and ensures project stays on track. |
+| **Frontend Developers** | Build user-facing components using HTML, CSS, JavaScript, and React. Ensure responsive and accessible design. |
+| **Backend Developers** | Develop APIs, handle server logic, manage databases, and implement core business functionalities.   |
+| **Designers**       | Create wireframes and high-fidelity mockups in Figma. Define visual styles, typography, and UX flow.  |
+| **QA/Testers**      | Write and run test cases (unit/integration), report bugs, and ensure overall application quality.     |
+| **DevOps Engineers**| Set up CI/CD pipelines, manage deployment, monitor server performance and uptime.                     |
+| **Product Owner**   | Defines product requirements, prioritizes features, and represents user/stakeholder needs.            |
+| **Scrum Master**    | Facilitates daily standups, removes team blockers, and enforces agile/scrum practices.                |
+
+Each team member’s contributions help build a high-quality, functional, and user-friendly web application. Collaboration and clarity of roles are key to delivering a successful Airbnb clone.
