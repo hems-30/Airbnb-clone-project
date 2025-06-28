@@ -83,3 +83,35 @@ Clearly defining team roles ensures smooth collaboration, accountability, and ef
 | **Scrum Master**    | Facilitates daily standups, removes team blockers, and enforces agile/scrum practices.                |
 
 Each team member’s contributions help build a high-quality, functional, and user-friendly web application. Collaboration and clarity of roles are key to delivering a successful Airbnb clone.
+## UI Component Patterns
+
+To ensure modularity and code reusability, we are planning a set of reusable UI components for the Airbnb Clone project. These components will be styled consistently based on the design system defined in Figma.
+
+### 🔧 Planned Components
+
+#### 🔹 Navbar
+- Contains the logo, search bar, navigation links, and user profile menu
+- Responsive: Collapses into a hamburger menu on smaller screens
+- Used on all main pages
+
+#### 🔹 Property Card
+- Displays a preview of a property including:
+  - Image
+  - Location
+  - Price per night
+  - Rating
+  - Favorite (heart) button
+- Will be reused on listing and search pages
+
+#### 🔹 Footer
+- Displays helpful links, company information, and social media icons
+- Appears on all pages
+- Responsive layout with collapsible sections for mobile
+
+---
+
+Each component will be:
+- **Reusable**: Built as independent React components
+- **Responsive**: Designed mobile-first
+- **Consistent**: Styled according to the project’s design system (color, font, spacing)
+- **Accessible**: Developed with accessibility in mind (ARIA attributes, semantic HTML)
